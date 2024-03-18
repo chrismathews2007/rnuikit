@@ -1,0 +1,30 @@
+{
+	"expo": {
+		"name": "UIKit",
+		"slug": "UIKit",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/facebook-app-icon.png",
+		"splash": {
+			"image": "https://fluttergems.dev/media-cards/tbib_splash_screen.gif",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/facebook-app-icon.png",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		}
+	}
+}
